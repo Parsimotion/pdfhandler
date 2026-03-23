@@ -32,3 +32,7 @@ $RECYCLE.BIN/
 
 # Mac desktop service store files
 .DS_Store
+
+site.config
+*.env
+*.env.*
